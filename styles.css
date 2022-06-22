@@ -82,7 +82,7 @@ i:hover{
 }
 
 .logo{
-    font-size: 4rem;
+    font-size: 7.5vh;
     font-weight: bold;
     color: #ffff;
 }
@@ -96,8 +96,8 @@ input{
 
 button{
     margin :0.5rem;
-    height: 3rem;
-    width: 5.5rem;
+    height: 7vh;
+    width: 12vh;
     border-radius: 5px;
 }
 
